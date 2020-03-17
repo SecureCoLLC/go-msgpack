@@ -1,1 +1,1 @@
-module github.com/hashicorp/go-msgpack
+module github.com/securecollc/go-msgpack
